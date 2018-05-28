@@ -1,0 +1,10 @@
+{
+  "animations" : [
+    {
+      "name" : "test",
+      "frameCount" : 6,
+      "repeat" : true
+    }],
+  "links" : [],
+  "splits" : []
+}

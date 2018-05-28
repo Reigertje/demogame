@@ -1,0 +1,293 @@
+{
+  "depth": 2,
+  "animations": [
+    {
+      "frames": [
+        {
+          "image": "human.stand1_ba",
+          "x": 4,
+          "y": 14
+        },
+        {
+          "image": "human.stand2_ba",
+          "x": 4,
+          "y": 15
+        },
+        {
+          "image": "human.stand3_ba",
+          "x": 4,
+          "y": 15
+        },
+        {
+          "image": "human.stand4_ba",
+          "x": 4,
+          "y": 14
+        }
+      ],
+      "name": "stand"
+    },
+    {
+      "frames": [
+        {
+          "image": "human.run1_ba",
+          "x": 4,
+          "y": 16
+        },
+        {
+          "image": "human.run2_ba",
+          "x": 4,
+          "y": 19
+        },
+        {
+          "image": "human.run3_ba",
+          "x": 4,
+          "y": 15
+        },
+        {
+          "image": "human.run4_ba",
+          "x": 4,
+          "y": 13
+        },
+        {
+          "image": "human.run5_ba",
+          "x": 3,
+          "y": 16
+        },
+        null,
+        {
+          "image": "human.run7_ba",
+          "x": 3,
+          "y": 16
+        },
+        {
+          "image": "human.run8_ba",
+          "x": 4,
+          "y": 13
+        }
+      ],
+      "name": "run"
+    },
+    {
+      "frames": [
+        {
+          "image": "human.jump1_ba",
+          "x": 4,
+          "y": 19
+        },
+        {
+          "image": "human.jump2_ba",
+          "x": 4,
+          "y": 20
+        },
+        {
+          "image": "human.jump3_ba",
+          "x": 4,
+          "y": 23
+        }
+      ],
+      "name": "jump"
+    },
+    {
+      "frames": [
+        {
+          "image": "human.slash1_ba",
+          "x": 4,
+          "y": 15
+        },
+        {
+          "image": "human.slash2_ba",
+          "x": 4,
+          "y": 17
+        },
+        {
+          "image": "human.slash3_ba",
+          "x": 4,
+          "y": 20
+        },
+        {
+          "image": "human.slash4_ba",
+          "x": 4,
+          "y": 17
+        },
+        null,
+        null,
+        {
+          "image": "human.slash7_ba",
+          "x": 5,
+          "y": 13
+        },
+        {
+          "image": "human.slash8_ba",
+          "x": 5,
+          "y": 12
+        }
+      ],
+      "name": "slash"
+    },
+    {
+      "frames": [
+        {
+          "image": "human.slash1_ba",
+          "x": 4,
+          "y": 15
+        },
+        {
+          "image": "human.slash2_ba",
+          "x": 4,
+          "y": 16
+        },
+        {
+          "image": "human.slash3_ba",
+          "x": 4,
+          "y": 20
+        },
+        {
+          "image": "human.slash4_ba",
+          "x": 4,
+          "y": 17
+        },
+        null,
+        null,
+        {
+          "image": "human.slash7_ba",
+          "x": 5,
+          "y": 13
+        },
+        {
+          "image": "human.slash8_ba",
+          "x": 5,
+          "y": 12
+        }
+      ],
+      "name": "slash_jump"
+    },
+    {
+      "frames": [null],
+      "name": "block"
+    },
+    {
+      "frames": [null],
+      "name": "block_jump"
+    },
+    {
+      "frames": [
+        {
+          "image": "human.bow1_ba",
+          "x": 4,
+          "y": 18
+        },
+        {
+          "image": "human.bow2_ba",
+          "x": 3,
+          "y": 21
+        },
+        {
+          "image": "human.bow3_ba",
+          "x": 4,
+          "y": 26
+        },
+        {
+          "image": "human.bow4_ba",
+          "x": 4,
+          "y": 26
+        },
+        {
+          "image": "human.bow5_ba",
+          "x": 4,
+          "y": 26
+        },
+        {
+          "image": "human.bow6_ba",
+          "x": 4,
+          "y": 26
+        },
+        {
+          "image": "human.bow7_ba",
+          "x": 4,
+          "y": 25
+        },
+        {
+          "image": "human.bow8_ba",
+          "x": 4,
+          "y": 25
+        },
+        {
+          "image": "human.bow9_ba",
+          "x": 4,
+          "y": 24
+        },
+        {
+          "image": "human.bow10_ba",
+          "x": 4,
+          "y": 24
+        },
+        {
+          "image": "human.bow11_ba",
+          "x": 4,
+          "y": 26
+        }
+      ],
+      "name": "bow"
+    },
+    {
+      "frames": [
+        {
+          "image": "human.bow1_ba",
+          "x": 4,
+          "y": 18
+        },
+        {
+          "image": "human.bow2_ba",
+          "x": 3,
+          "y": 21
+        },
+        {
+          "image": "human.bow3_ba",
+          "x": 4,
+          "y": 26
+        },
+        {
+          "image": "human.bow4_ba",
+          "x": 4,
+          "y": 26
+        },
+        {
+          "image": "human.bow5_ba",
+          "x": 4,
+          "y": 26
+        },
+        {
+          "image": "human.bow6_ba",
+          "x": 4,
+          "y": 26
+        },
+        {
+          "image": "human.bow7_ba",
+          "x": 4,
+          "y": 25
+        },
+        {
+          "image": "human.bow8_ba",
+          "x": 4,
+          "y": 25
+        },
+        {
+          "image": "human.bow9_ba",
+          "x": 4,
+          "y": 24
+        },
+        {
+          "image": "human.bow10_ba",
+          "x": 4,
+          "y": 24
+        },
+        {
+          "image": "human.bow11_ba",
+          "x": 4,
+          "y": 26
+        }
+      ],
+      "name": "bow_jump"
+    }
+  ]
+}

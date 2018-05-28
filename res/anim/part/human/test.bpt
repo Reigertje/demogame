@@ -1,0 +1,94 @@
+{
+  "depth": 0,
+  "animations": [
+    {
+      "frames": [
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/fall1.png",
+          "depth": 0,
+          "x": -24,
+          "y": -2
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/run7.png",
+          "depth": 0,
+          "x": -24
+          "y": -3
+        },
+        null,
+        null
+      ],
+      "name": "stand"
+    },
+    {
+      "frames": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "name": "run"
+    },
+    {
+      "frames": [
+        null,
+        null,
+        null
+      ],
+      "name": "jump"
+    },
+    {
+      "frames": [
+        null,
+        null,
+        null,
+        null,
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/stand1.png",
+          "depth": 0,
+          "x": -24,
+          "y": 1
+        },
+        null,
+        null,
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/stand4.png",
+          "depth": 0,
+          "x": -22,
+          "y": 0
+        }
+      ],
+      "name": "slash"
+    },
+    {
+      "frames": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "name": "slash_jump"
+    },
+    {
+      "frames": [null],
+      "name": "block"
+    },
+    {
+      "frames": [{
+        "image": "/home/brian/Held/app/src/main/assets/img/palm_0.png",
+        "depth": 0,
+        "x": -15,
+        "y": 1
+      }],
+      "name": "block_jump"
+    }
+  ]
+}

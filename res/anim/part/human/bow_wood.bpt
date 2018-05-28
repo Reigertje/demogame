@@ -1,0 +1,267 @@
+{
+  "depth": 1.5,
+  "animations": [
+    {
+      "frames": [
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/bows/wood.png",
+          "x": -7,
+          "y": 13
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/bows/wood.png",
+          "x": -7,
+          "y": 14
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/bows/wood.png",
+          "x": -8,
+          "y": 14
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/bows/wood.png",
+          "x": -8,
+          "y": 13
+        }
+      ],
+      "name": "stand"
+    },
+    {
+      "frames": [
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/bows/wood.png",
+          "x": -7,
+          "y": 15
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/bows/wood.png",
+          "x": -5,
+          "y": 18
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/bows/wood.png",
+          "x": -7,
+          "y": 14
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/bows/wood.png",
+          "x": -10,
+          "y": 12
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/bows/wood.png",
+          "x": -12,
+          "y": 15
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/bows/wood.png",
+          "x": -16,
+          "y": 17
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/bows/wood.png",
+          "x": -12,
+          "y": 15
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/bows/wood.png",
+          "x": -10,
+          "y": 12
+        }
+      ],
+      "name": "run"
+    },
+    {
+      "frames": [
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/bows/wood.png",
+          "x": -3,
+          "y": 18
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/bows/wood.png",
+          "x": -3,
+          "y": 19
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/bows/wood.png",
+          "x": -3,
+          "y": 22
+        }
+      ],
+      "name": "jump"
+    },
+    {
+      "frames": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "name": "slash"
+    },
+    {
+      "frames": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "name": "slash_jump"
+    },
+    {
+      "frames": [null],
+      "name": "block"
+    },
+    {
+      "frames": [null],
+      "name": "block_jump"
+    },
+    {
+      "frames": [
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/bows/wood.png",
+          "x": -5,
+          "y": 17
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/bows/wood1.png",
+          "x": -1,
+          "y": 13
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/bows/wood2.png",
+          "depth" : -1.5,
+          "x": 12,
+          "y": 11
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/bows/wood2.png",
+          "depth" : -1.5,
+          "x": 12,
+          "y": 11
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/bows/wood2.png",
+          "depth" : -1.5,
+          "x": 12,
+          "y": 11
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/bows/wood2.png",
+          "depth" : -1.5,
+          "x": 12,
+          "y": 11
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/bows/wood2.png",
+          "depth" : -1.5,
+          "x": 12,
+          "y": 10
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/bows/wood3.png",
+          "depth" : -1.5,
+          "x": 9,
+          "y": 11
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/bows/wood4.png",
+          "depth" : -1.5,
+          "x": 5,
+          "y": 12
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/bows/wood5.png",
+          "depth" : -1.5,
+          "x": 1,
+          "y": 13
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/bows/wood2.png",
+          "depth" : -1.5,
+          "x": 12,
+          "y": 11
+        }
+      ],
+      "name": "bow"
+    },
+    {
+      "frames": [
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/bows/wood.png",
+          "x": -5,
+          "y": 17
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/bows/wood1.png",
+          "x": -1,
+          "y": 13
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/bows/wood2.png",
+          "depth" : -1.5,
+          "x": 12,
+          "y": 11
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/bows/wood2.png",
+          "depth" : -1.5,
+          "x": 12,
+          "y": 11
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/bows/wood2.png",
+          "depth" : -1.5,
+          "x": 12,
+          "y": 11
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/bows/wood2.png",
+          "depth" : -1.5,
+          "x": 12,
+          "y": 11
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/bows/wood2.png",
+          "depth" : -1.5,
+          "x": 12,
+          "y": 10
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/bows/wood3.png",
+          "depth" : -1.5,
+          "x": 9,
+          "y": 11
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/bows/wood4.png",
+          "depth" : -1.5,
+          "x": 5,
+          "y": 12
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/bows/wood5.png",
+          "depth" : -1.5,
+          "x": 1,
+          "y": 13
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/bows/wood2.png",
+          "depth" : -1.5,
+          "x": 12,
+          "y": 11
+        }
+      ],
+      "name": "bow_jump"
+    }
+  ]
+}

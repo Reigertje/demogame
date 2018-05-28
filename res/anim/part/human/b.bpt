@@ -1,0 +1,321 @@
+{
+  "depth": 0,
+  "animations": [
+    {
+      "frames": [
+        {
+          "image": "human.body",
+          "x": -4,
+          "y": 15
+        },
+        {
+          "image": "human.body",
+          "x": -4,
+          "y": 14
+        },
+        {
+          "image": "human.body",
+          "x": -4,
+          "y": 13
+        },
+        {
+          "image": "human.body",
+          "x": -4,
+          "y": 14
+        }
+      ],
+      "name": "stand"
+    },
+    {
+      "frames": [
+        {
+          "image": "human.body",
+          "x": -4,
+          "y": 17
+        },
+        {
+          "image": "human.body",
+          "x": -4,
+          "y": 17
+        },
+        {
+          "image": "human.body",
+          "x": -4,
+          "y": 16
+        },
+        {
+          "image": "human.body",
+          "x": -4,
+          "y": 14
+        },
+        {
+          "image": "human.body",
+          "x": -4,
+          "y": 16
+        },
+        {
+          "image": "human.body",
+          "x": -4,
+          "y": 17
+        },
+        {
+          "image": "human.body",
+          "x": -4,
+          "y": 16
+        },
+        {
+          "image": "human.body",
+          "x": -4,
+          "y": 14
+        }
+      ],
+      "name": "run"
+    },
+    {
+      "frames": [
+        {
+          "image": "human.body",
+          "x": -4,
+          "y": 14
+        },
+        {
+          "image": "human.body",
+          "x": -4,
+          "y": 15
+        },
+        {
+          "image": "human.body",
+          "x": -4,
+          "y": 16
+        }
+      ],
+      "name": "jump"
+    },
+    {
+      "frames": [
+        {
+          "image": "human.body",
+          "x": -4,
+          "y": 13
+        },
+        {
+          "image": "human.body",
+          "x": -4,
+          "y": 14
+        },
+        {
+          "image": "human.body",
+          "x": -4,
+          "y": 15
+        },
+        {
+          "image": "human.body",
+          "x": -4,
+          "y": 15
+        },
+        {
+          "image": "human.body",
+          "x": -2,
+          "y": 13
+        },
+        {
+          "image": "human.body",
+          "x": 0,
+          "y": 11
+        },
+        {
+          "image": "human.body",
+          "x": -2,
+          "y": 13
+        },
+        {
+          "image": "human.body",
+          "x": -3,
+          "y": 13
+        }
+      ],
+      "name": "slash"
+    },
+    {
+      "frames": [
+        {
+          "image": "human.body",
+          "x": -4,
+          "y": 13
+        },
+        {
+          "image": "human.body",
+          "x": -4,
+          "y": 13
+        },
+        {
+          "image": "human.body",
+          "x": -4,
+          "y": 15
+        },
+        {
+          "image": "human.body",
+          "x": -4,
+          "y": 15
+        },
+        {
+          "image": "human.body",
+          "x": -2,
+          "y": 13
+        },
+        {
+          "image": "human.body",
+          "x": 0,
+          "y": 11
+        },
+        {
+          "image": "human.body",
+          "x": -2,
+          "y": 13
+        },
+        {
+          "image": "human.body",
+          "x": -3,
+          "y": 13
+        }
+      ],
+      "name": "slash_jump"
+    },
+    {
+      "frames": [{
+        "image": "human.body",
+        "x": -4,
+        "y": 11
+      }],
+      "name": "block"
+    },
+    {
+      "frames": [{
+        "image": "human.body",
+        "x": -4,
+        "y": 16
+      }],
+      "name": "block_jump"
+    },
+    {
+      "frames": [
+        {
+          "image": "human.body",
+          "x": -4,
+          "y": 15
+        },
+        {
+          "image": "human.body",
+          "x": -4,
+          "y": 15
+        },
+        {
+          "image": "human.body",
+          "x": -4,
+          "y": 15
+        },
+        {
+          "image": "human.body",
+          "x": -4,
+          "y": 15
+        },
+        {
+          "image": "human.body",
+          "x": -4,
+          "y": 15
+        },
+        {
+          "image": "human.body",
+          "x": -4,
+          "y": 15
+        },
+        {
+          "image": "human.body",
+          "x": -4,
+          "y": 14
+        },
+        {
+          "image": "human.body",
+          "x": -4,
+          "y": 14
+        },
+        {
+          "image": "human.body",
+          "x": -4,
+          "y": 13
+        },
+        {
+          "image": "human.body",
+          "x": -4,
+          "y": 13
+        },
+        {
+          "image": "human.body",
+          "x": -4,
+          "y": 15
+        }
+      ],
+      "name": "bow"
+    },
+    {
+      "frames": [
+        {
+          "image": "human.body",
+          "x": -4,
+          "y": 15
+        },
+        {
+          "image": "human.body",
+          "x": -4,
+          "y": 15
+        },
+        {
+          "image": "human.body",
+          "x": -4,
+          "y": 15
+        },
+        {
+          "image": "human.body",
+          "x": -4,
+          "y": 15
+        },
+        {
+          "image": "human.body",
+          "x": -4,
+          "y": 15
+        },
+        {
+          "image": "human.body",
+          "x": -4,
+          "y": 15
+        },
+        {
+          "image": "human.body",
+          "x": -4,
+          "y": 14
+        },
+        {
+          "image": "human.body",
+          "x": -4,
+          "y": 14
+        },
+        {
+          "image": "human.body",
+          "x": -4,
+          "y": 13
+        },
+        {
+          "image": "human.body",
+          "x": -4,
+          "y": 13
+        },
+        {
+          "image": "human.body",
+          "x": -4,
+          "y": 15
+        }
+      ],
+      "name": "bow_jump"
+    }
+  ]
+}

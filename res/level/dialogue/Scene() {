@@ -1,0 +1,8 @@
+Scene() {
+	Game.loadTextureSet("texture_set_0");
+	Game.loadAnimationSet("animation_set_0");
+
+	Dialogue dialogue_0 = Game.loadDialogue("dialogue_0");
+	Shader shader = Game.getShader("shader_0");
+
+}

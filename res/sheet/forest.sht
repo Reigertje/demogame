@@ -1,0 +1,27 @@
+{
+	"texture_key" : "forest",
+	"sub_textures" : [
+		{ "key" : "s0", "x" : 0, "y" : 0, "width" : 48, "height": 48},
+		{ "key" : "t0", "x" : 0, "y" : 48, "width" : 48, "height": 16},
+		{ "key" : "l0", "x" : 48, "y" : 48, "width" : 16, "height": 48},
+		{ "key" : "r0", "x" : 48, "y" : 0, "width" : 16, "height": 48},
+		{ "key" : "b0", "x" : 0, "y" : 64, "width" : 48, "height": 16},
+
+		{ "key" : "a1", "x" : 96, "y" : 0, "width" : 48, "height" : 48},
+		{ "key" : "a2", "x" : 96, "y" : 48, "width" : 48, "height" : 48},
+		{ "key" : "a3", "x" : 96, "y" : 96, "width" : 48, "height" : 48},
+		{ "key" : "a4", "x" : 96, "y" : 144, "width" : 48, "height" : 48},
+		{ "key" : "a5", "x" : 96, "y" : 192, "width" : 48, "height" : 48},
+		{ "key" : "a6", "x" : 144, "y" : 0, "width" : 48, "height" : 48},
+		{ "key" : "a7", "x" : 144, "y" : 48, "width" : 48, "height" : 48},
+		{ "key" : "a8", "x" : 144, "y" : 96, "width" : 48, "height" : 48},
+		{ "key" : "a9", "x" : 144, "y" : 144, "width" : 48, "height" : 48},
+		{ "key" : "a10", "x" : 144, "y" : 192, "width" : 48, "height" : 48},
+		{ "key" : "a11", "x" : 192, "y" : 0, "width" : 48, "height" : 48},
+		{ "key" : "a12", "x" : 192, "y" : 48, "width" : 48, "height" : 48},
+		{ "key" : "a13", "x" : 192, "y" : 96, "width" : 48, "height" : 48},
+		{ "key" : "a14", "x" : 192, "y" : 144, "width" : 48, "height" : 48},
+		{ "key" : "a0", "x" : 192, "y" : 192, "width" : 48, "height" : 48}
+	]
+
+}

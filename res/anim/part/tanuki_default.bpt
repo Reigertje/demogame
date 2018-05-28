@@ -1,0 +1,90 @@
+{
+  "depth": 0,
+  "animations": [
+    {
+      "frames": [
+        {
+          "image": "tanuki1",
+          "x": -16,
+          "y": -16
+        },
+        {
+          "image": "tanuki2",
+          "x": -16,
+          "y": -16
+        },
+        {
+          "image": "tanuki3",
+          "x": -16,
+          "y": -16
+        },
+        {
+          "image": "tanuki4",
+          "x": -16,
+          "y": -16
+        },
+        {
+          "image": "tanuki5",
+          "x": -16,
+          "y": -16
+        },
+        {
+          "image": "tanuki6",
+          "x": -16,
+          "y": -16
+        }
+      ],
+      "name": "walk"
+    },
+    {
+      "frames" : [
+        {
+          "image" : "tanuki_cornered1",
+          "x" : -16,
+          "y" : -16
+        },
+        {
+          "image" : "tanuki_cornered2",
+          "x" : -16,
+          "y" : -16
+        },
+        {
+          "image" : "tanuki_cornered3",
+          "x" : -16,
+          "y" : -16
+        },
+        {
+          "image" : "tanuki_cornered4",
+          "x" : -16,
+          "y" : -16
+        },
+        {
+          "image" : "tanuki_cornered5",
+          "x" : -16,
+          "y" : -16
+        },
+        {
+          "image" : "tanuki_cornered6",
+          "x" : -16,
+          "y" : -16
+        },
+        {
+          "image" : "tanuki_cornered7",
+          "x" : -16,
+          "y" : -16
+        }
+      ], 
+      "name" : "cornered"
+    },
+    {
+      "frames" : [
+        {
+          "image" : "tanuki_attack",
+          "x" : -16,
+          "y" : -16
+        }
+      ],
+      "name" : "attack"
+    }
+  ]
+}

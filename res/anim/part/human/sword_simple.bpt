@@ -1,0 +1,201 @@
+{
+  "depth": -4,
+  "animations": [
+    {
+      "frames": [
+        {
+          "image": "human.swords.simple",
+          "x": -11,
+          "y": 12
+        },
+        {
+          "image": "human.swords.simple",
+          "x": -11,
+          "y": 13
+        },
+        {
+          "image": "human.swords.simple",
+          "x": -12,
+          "y": 13
+        },
+        {
+          "image": "human.swords.simple",
+          "x": -12,
+          "y": 12
+        }
+      ],
+      "name": "stand"
+    },
+    {
+      "frames": [
+        {
+          "image": "human.swords.simple",
+          "x": -11,
+          "y": 14
+        },
+        {
+          "image": "human.swords.simple",
+          "x": -14,
+          "y": 15
+        },
+        {
+          "image": "human.swords.simple",
+          "x": -11,
+          "y": 13
+        },
+        {
+          "image": "human.swords.simple",
+          "x": -8,
+          "y": 10
+        },
+        {
+          "image": "human.swords.simple",
+          "x": -2,
+          "y": 14
+        },
+        {
+          "image": "human.swords.simple",
+          "x": 1,
+          "y": 15
+        },
+        {
+          "image": "human.swords.simple",
+          "x": -1,
+          "y": 14
+        },
+        {
+          "image": "human.swords.simple",
+          "x": -8,
+          "y": 10
+        }
+      ],
+      "name": "run"
+    },
+    {
+      "frames": [
+        {
+          "image": "human.swords.simple",
+          "x": -14,
+          "y": 15
+        },
+        {
+          "image": "human.swords.simple",
+          "x": -14,
+          "y": 17
+        },
+        {
+          "image": "human.swords.simple",
+          "x": -14,
+          "y": 18
+        }
+      ],
+      "name": "jump"
+    },
+    {
+      "frames": [
+        {
+          "image": "human.swords.simple",
+          "x": -8,
+          "y": 13
+        },
+        {
+          "image": "human.swords.simple",
+          "x": 0,
+          "y": 16
+        },
+        {
+          "image": "human.swords.simple_2",
+          "x": 6,
+          "y": 26
+        },
+        {
+          "image": "human.swords.simple_3",
+          "x": -19,
+          "y": 27
+        },
+        {
+          "image": "human.swords.simple_4",
+          "x": -10,
+          "y": 30
+        },
+        {
+          "image": "human.swords.simple_5",
+          "x": -2,
+          "y": 19
+        },
+        {
+          "image": "human.swords.simple_6",
+          "x": 9,
+          "y": 1
+        },
+        {
+          "image": "human.swords.simple_7",
+          "x": 6,
+          "y": -1
+        }
+      ],
+      "name": "slash"
+    },
+    {
+      "frames": [
+        {
+          "image": "human.swords.simple",
+          "x": -8,
+          "y": 13
+        },
+        {
+          "image": "human.swords.simple",
+          "x": 0,
+          "y": 15
+        },
+        {
+          "image": "human.swords.simple_2",
+          "x": 6,
+          "y": 26
+        },
+        {
+          "image": "human.swords.simple_3",
+          "x": -19,
+          "y": 27
+        },
+        {
+          "image": "human.swords.simple_4",
+          "x": -10,
+          "y": 30
+        },
+        {
+          "image": "human.swords.simple_5",
+          "x": -2,
+          "y": 19
+        },
+        {
+          "image": "human.swords.simple_6",
+          "x": 9,
+          "y": 1
+        },
+        {
+          "image": "human.swords.simple_7",
+          "x": 6,
+          "y": -1
+        }
+      ],
+      "name": "slash_jump"
+    },
+    {
+      "frames": [{
+        "image": "human.swords.simple",
+        "x": -12,
+        "y": 10
+      }],
+      "name": "block"
+    },
+    {
+      "frames": [{
+        "image": "human.swords.simple",
+        "x": -14,
+        "y": 18
+      }],
+      "name": "block_jump"
+    }
+  ]
+}

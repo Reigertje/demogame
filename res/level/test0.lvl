@@ -1,0 +1,10 @@
+{
+	"level_width" : 2,
+	"level_height" : 2,
+	"room_width" : 11,
+	"room_height" : 7,
+	edges : [
+		{ to : "test1" },
+		{ from : "START" }
+	]
+}

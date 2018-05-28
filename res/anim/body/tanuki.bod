@@ -1,0 +1,20 @@
+{
+  "animations" : [
+    {
+      "name" : "walk",
+      "frameCount" : 6,
+      "repeat" : true
+    }, 
+    {
+      "name" : "cornered",
+      "frameCount" : 7,
+      "repeat" : true
+    },
+    {
+      "name" : "attack",
+      "frameCount" : 1,
+      "repeat" : false
+    }],
+  "links" : [],
+  "splits" : []
+}

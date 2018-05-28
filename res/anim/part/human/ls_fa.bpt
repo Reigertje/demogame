@@ -1,0 +1,321 @@
+{
+  "depth": -2.25,
+  "animations": [
+    {
+      "frames": [
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/sleeves/ls_stand1_fa.png",
+          "x": -9,
+          "y": 16
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/sleeves/ls_stand2_fa.png",
+          "x": -9,
+          "y": 17
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/sleeves/ls_stand3_fa.png",
+          "x": -10,
+          "y": 17
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/sleeves/ls_stand4_fa.png",
+          "x": -10,
+          "y": 16
+        }
+      ],
+      "name": "stand"
+    },
+    {
+      "frames": [
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/sleeves/ls_run1_fa.png",
+          "x": -9,
+          "y": 18
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/sleeves/ls_run2_fa.png",
+          "x": -11,
+          "y": 19
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/sleeves/ls_run3_fa.png",
+          "x": -9,
+          "y": 17
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/sleeves/ls_run4_fa.png",
+          "x": -6,
+          "y": 14
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/sleeves/ls_run5_fa.png",
+          "x": -4,
+          "y": 18
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/sleeves/ls_run6_fa.png",
+          "x": -4,
+          "y": 19
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/sleeves/ls_run7_fa.png",
+          "x": -4,
+          "y": 18
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/sleeves/ls_run8_fa.png",
+          "x": -6,
+          "y": 14
+        }
+      ],
+      "name": "run"
+    },
+    {
+      "frames": [
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/sleeves/ls_jump1_fa.png",
+          "x": -11,
+          "y": 19
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/sleeves/ls_jump2_fa.png",
+          "x": -11,
+          "y": 21
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/sleeves/ls_jump3_fa.png",
+          "x": -12,
+          "y": 22
+        }
+      ],
+      "name": "jump"
+    },
+    {
+      "frames": [
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/sleeves/ls_slash1_fa.png",
+          "x": -8,
+          "y": 17
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/sleeves/ls_slash2_fa.png",
+          "x": -7,
+          "y": 18
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/sleeves/ls_slash3_fa.png",
+          "x": -4,
+          "y": 23
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/sleeves/ls_slash4_fa.png",
+          "x": -4,
+          "y": 26
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/sleeves/ls_slash5_fa.png",
+          "x": -2,
+          "y": 23
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/sleeves/ls_slash6_fa.png",
+          "x": 0,
+          "y": 21
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/sleeves/ls_slash7_fa.png",
+          "x": -2,
+          "y": 14
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/sleeves/ls_slash8_fa.png",
+          "x": -3,
+          "y": 13
+        }
+      ],
+      "name": "slash"
+    },
+    {
+      "frames": [
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/sleeves/ls_slash1_fa.png",
+          "x": -8,
+          "y": 17
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/sleeves/ls_slash2_fa.png",
+          "x": -7,
+          "y": 17
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/sleeves/ls_slash3_fa.png",
+          "x": -4,
+          "y": 23
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/sleeves/ls_slash4_fa.png",
+          "x": -4,
+          "y": 26
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/sleeves/ls_slash5_fa.png",
+          "x": -2,
+          "y": 23
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/sleeves/ls_slash6_fa.png",
+          "x": 0,
+          "y": 21
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/sleeves/ls_slash7_fa.png",
+          "x": -2,
+          "y": 14
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/sleeves/ls_slash8_fa.png",
+          "x": -3,
+          "y": 13
+        }
+      ],
+      "name": "slash_jump"
+    },
+    {
+      "frames": [{
+        "image": "/home/brian/Held/app/src/main/assets/img/human/sleeves/ls_block_fa.png",
+        "x": -10,
+        "y": 14
+      }],
+      "name": "block"
+    },
+    {
+      "frames": [{
+        "image": "/home/brian/Held/app/src/main/assets/img/human/sleeves/ls_block_jump_fa.png",
+        "x": -12,
+        "y": 22
+      }],
+      "name": "block_jump"
+    },
+    {
+      "frames": [
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/sleeves/ls_bow1_fa.png",
+          "x": -8,
+          "y": 16
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/sleeves/ls_bow2_fa.png",
+          "x": -6,
+          "y": 18
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/sleeves/ls_bow3_fa.png",
+          "x": -4,
+          "y": 20
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/sleeves/ls_bow4_fa.png",
+          "x": -4,
+          "y": 26
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/sleeves/ls_bow5_fa.png",
+          "x": -4,
+          "y": 26
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/sleeves/ls_bow6_fa.png",
+          "x": -4,
+          "y": 26
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/sleeves/ls_bow7_fa.png",
+          "x": -4,
+          "y": 25
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/sleeves/ls_bow8_fa.png",
+          "x": -4,
+          "y": 22
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/sleeves/ls_bow9_fa.png",
+          "x": -4,
+          "y": 20
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/sleeves/ls_bow10_fa.png",
+          "x": -6,
+          "y": 20
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/sleeves/ls_bow11_fa.png",
+          "x": -7,
+          "y": 21
+        }
+      ],
+      "name": "bow"
+    },
+    {
+      "frames": [
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/sleeves/ls_bow1_fa.png",
+          "x": -8,
+          "y": 16
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/sleeves/ls_bow2_fa.png",
+          "x": -6,
+          "y": 18
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/sleeves/ls_bow3_fa.png",
+          "x": -4,
+          "y": 20
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/sleeves/ls_bow4_fa.png",
+          "x": -4,
+          "y": 26
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/sleeves/ls_bow5_fa.png",
+          "x": -4,
+          "y": 26
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/sleeves/ls_bow6_fa.png",
+          "x": -4,
+          "y": 26
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/sleeves/ls_bow7_fa.png",
+          "x": -4,
+          "y": 25
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/sleeves/ls_bow8_fa.png",
+          "x": -4,
+          "y": 22
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/sleeves/ls_bow9_fa.png",
+          "x": -4,
+          "y": 20
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/sleeves/ls_bow10_fa.png",
+          "x": -6,
+          "y": 20
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/sleeves/ls_bow11_fa.png",
+          "x": -7,
+          "y": 21
+        }
+      ],
+      "name": "bow_jump"
+    }
+  ]
+}

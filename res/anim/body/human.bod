@@ -1,0 +1,77 @@
+{
+  "animations" : [
+    {
+      "name" : "stand",
+      "frameCount" : 4,
+      "repeat" : true
+    },
+    {
+      "name" : "run",
+      "frameCount" : 8,
+      "repeat" : true
+    },
+    {
+      "name" : "jump",
+      "frameCount" : 3,
+      "repeat" : false
+    },
+    {
+      "name" : "slash",
+      "frameCount" : 8,
+      "repeat" : true
+    },
+    {
+      "name" : "slash_jump",
+      "frameCount" : 8,
+      "repeat" : true
+    },
+    {
+      "name" : "block",
+      "frameCount" : 1,
+      "repeat" : false
+    },
+    {
+      "name" : "block_jump",
+      "frameCount" : 1,
+      "repeat" : false
+    },
+    {
+      "name" : "bow",
+      "frameCount" : 11,
+      "repeat" : true
+    },
+    {
+      "name" : "bow_jump",
+      "frameCount" : 11,
+      "repeat" : true
+    }
+  ],
+  "links" : [
+    {
+      "a" : "slash",
+      "b" : "slash_jump"
+    }
+  ],
+  "splits" : [
+    {
+      "animation" : "slash",
+      "names" : ["prepare", "attack", "cooldown"],
+      "split" : [0, 3, 7]
+    },
+    {
+      "animation" : "slash_jump",
+      "names" : ["prepare", "attack", "cooldown"],
+      "split" : [0, 3, 7]
+    },
+    {
+      "animation" : "bow",
+      "names" : ["prepare", "load", "charge", "attack", "cooldown"],
+      "split" : [0, 3, 7, 9, 10]
+    },
+    {
+      "animation" : "bow_jump",
+      "names" : ["prepare", "load", "charge", "attack", "cooldown"],
+      "split" : [0, 3, 7, 9, 10]
+    }
+  ]
+}

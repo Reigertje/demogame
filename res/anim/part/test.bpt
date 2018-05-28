@@ -1,0 +1,40 @@
+{
+  "depth": 0,
+  "animations": [
+    {
+      "frames": [
+        {
+          "image": "tanuki1",
+          "x": -16,
+          "y": -16
+        },
+        {
+          "image": "tanuki2",
+          "x": -16,
+          "y": -16
+        },
+        {
+          "image": "tanuki3",
+          "x": -16,
+          "y": -16
+        },
+        {
+          "image": "tanuki4",
+          "x": -16,
+          "y": -16
+        },
+        {
+          "image": "tanuki5",
+          "x": -16,
+          "y": -16
+        },
+        {
+          "image": "tanuki6",
+          "x": -16,
+          "y": -16
+        }
+      ],
+      "name": "test"
+    }
+  ]
+}

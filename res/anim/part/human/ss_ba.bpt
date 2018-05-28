@@ -1,0 +1,293 @@
+{
+  "depth": 1.75,
+  "animations": [
+    {
+      "frames": [
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/sleeves/ss_stand1_ba.png",
+          "x": 4,
+          "y": 21
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/sleeves/ss_stand2_ba.png",
+          "x": 4,
+          "y": 20
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/sleeves/ss_stand3_ba.png",
+          "x": 4,
+          "y": 20
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/sleeves/ss_stand4_ba.png",
+          "x": 4,
+          "y": 20
+        }
+      ],
+      "name": "stand"
+    },
+    {
+      "frames": [
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/sleeves/ss_run1_ba.png",
+          "x": 4,
+          "y": 22
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/sleeves/ss_run2_ba.png",
+          "x": 4,
+          "y": 23
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/sleeves/ss_run3_ba.png",
+          "x": 4,
+          "y": 21
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/sleeves/ss_run4_ba.png",
+          "x": 4,
+          "y": 20
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/sleeves/ss_run5_ba.png",
+          "x": 3,
+          "y": 21
+        },
+        null,
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/sleeves/ss_run7_ba.png",
+          "x": 3,
+          "y": 21
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/sleeves/ss_run8_ba.png",
+          "x": 4,
+          "y": 20
+        }
+      ],
+      "name": "run"
+    },
+    {
+      "frames": [
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/sleeves/ss_jump1_ba.png",
+          "x": 4,
+          "y": 22
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/sleeves/ss_jump2_ba.png",
+          "x": 4,
+          "y": 23
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/sleeves/ss_jump3_ba.png",
+          "x": 4,
+          "y": 24
+        }
+      ],
+      "name": "jump"
+    },
+    {
+      "frames": [
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/sleeves/ss_slash1_ba.png",
+          "x": 4,
+          "y": 20
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/sleeves/ss_slash2_ba.png",
+          "x": 4,
+          "y": 21
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/sleeves/ss_slash3_ba.png",
+          "x": 4,
+          "y": 22
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/sleeves/ss_slash4_ba.png",
+          "x": 4,
+          "y": 20
+        },
+        null,
+        null,
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/sleeves/ss_slash7_ba.png",
+          "x": 5,
+          "y": 17
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/sleeves/ss_slash8_ba.png",
+          "x": 5,
+          "y": 18
+        }
+      ],
+      "name": "slash"
+    },
+    {
+      "frames": [
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/sleeves/ss_slash1_ba.png",
+          "x": 4,
+          "y": 20
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/sleeves/ss_slash2_ba.png",
+          "x": 4,
+          "y": 20
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/sleeves/ss_slash3_ba.png",
+          "x": 4,
+          "y": 22
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/sleeves/ss_slash4_ba.png",
+          "x": 4,
+          "y": 20
+        },
+        null,
+        null,
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/sleeves/ss_slash7_ba.png",
+          "x": 5,
+          "y": 17
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/sleeves/ss_slash8_ba.png",
+          "x": 5,
+          "y": 18
+        }
+      ],
+      "name": "slash_jump"
+    },
+    {
+      "frames": [null],
+      "name": "block"
+    },
+    {
+      "frames": [null],
+      "name": "block_jump"
+    },
+    {
+      "frames": [
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/sleeves/ss_bow1_ba.png",
+          "x": 4,
+          "y": 22
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/sleeves/ss_bow2_ba.png",
+          "x": 3,
+          "y": 23
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/sleeves/ss_bow3_ba.png",
+          "x": 4,
+          "y": 26
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/sleeves/ss_bow4_ba.png",
+          "x": 4,
+          "y": 26
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/sleeves/ss_bow5_ba.png",
+          "x": 4,
+          "y": 26
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/sleeves/ss_bow6_ba.png",
+          "x": 4,
+          "y": 26
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/sleeves/ss_bow7_ba.png",
+          "x": 4,
+          "y": 25
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/sleeves/ss_bow8_ba.png",
+          "x": 4,
+          "y": 25
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/sleeves/ss_bow9_ba.png",
+          "x": 4,
+          "y": 24
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/sleeves/ss_bow10_ba.png",
+          "x": 4,
+          "y": 24
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/sleeves/ss_bow11_ba.png",
+          "x": 4,
+          "y": 26
+        }
+      ],
+      "name": "bow"
+    },
+    {
+      "frames": [
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/sleeves/ss_bow1_ba.png",
+          "x": 4,
+          "y": 22
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/sleeves/ss_bow2_ba.png",
+          "x": 3,
+          "y": 23
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/sleeves/ss_bow3_ba.png",
+          "x": 4,
+          "y": 26
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/sleeves/ss_bow4_ba.png",
+          "x": 4,
+          "y": 26
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/sleeves/ss_bow5_ba.png",
+          "x": 4,
+          "y": 26
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/sleeves/ss_bow6_ba.png",
+          "x": 4,
+          "y": 26
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/sleeves/ss_bow7_ba.png",
+          "x": 4,
+          "y": 25
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/sleeves/ss_bow8_ba.png",
+          "x": 4,
+          "y": 25
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/sleeves/ss_bow9_ba.png",
+          "x": 4,
+          "y": 24
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/sleeves/ss_bow10_ba.png",
+          "x": 4,
+          "y": 24
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/sleeves/ss_bow11_ba.png",
+          "x": 4,
+          "y": 26
+        }
+      ],
+      "name": "bow_jump"
+    }
+  ]
+}

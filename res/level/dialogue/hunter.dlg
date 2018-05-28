@@ -1,0 +1,50 @@
+{
+	"nodes" : [
+		{ 
+			"type" : "text",
+			"text" : "Hello there. This is an example conversation.",
+			"next" : 1
+		},
+		{
+			"type" : "text",
+			"text" : "There will be many such conversations in this game.",
+			"next" : 2
+		},
+		{
+			"type" : "text",
+			"text" : "Listening to what the inhabitants of this world have to say might help you discover secrets.",
+			"next" : 3
+		},
+		{
+			"type" : "option",
+			"text" : "Think you can handle this?",
+			"options" : [
+				{ 
+					"text" : "I sure do!",
+					"next" : 4
+				},
+				{
+					"text" : "Nope, no way, I am out.",
+					"next" : 6
+				}
+			]
+		},
+		{
+			"type" : "text",
+			"text" : "Great! You and I will get along quite well!",
+			"next" : -1
+		},
+		{
+			"type" : "text",
+			"text" : "Well, suit yourself kid.",
+			"next" : -1
+		},
+		{
+			"type" : "condition",
+			"next_success" : 4,
+			"next_fail" : 5,
+			"condition" : "test",
+			"arguments" : ["arg0", "arg1"]
+		}
+	]
+}

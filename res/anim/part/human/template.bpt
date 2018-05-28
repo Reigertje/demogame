@@ -1,0 +1,376 @@
+{
+  "depth": 0,
+  "animations": [
+    {
+      "frames": [
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/stand1.png",
+          "depth": 0,
+          "x": -23,
+          "y": 0
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/stand2.png",
+          "depth": 0,
+          "x": -23,
+          "y": 0
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/stand3.png",
+          "depth": 0,
+          "x": -23,
+          "y": 0
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/stand4.png",
+          "depth": 0,
+          "x": -23,
+          "y": 0
+        }
+      ],
+      "name": "stand"
+    },
+    {
+      "frames": [
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/run1.png",
+          "depth": 0,
+          "x": -23,
+          "y": 1
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/run2.png",
+          "depth": 0,
+          "x": -23,
+          "y": 0
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/run3.png",
+          "depth": 0,
+          "x": -23,
+          "y": 0
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/run4.png",
+          "depth": 0,
+          "x": -23,
+          "y": 0
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/run5.png",
+          "depth": 0,
+          "x": -23,
+          "y": 0
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/run6.png",
+          "depth": 0,
+          "x": -23,
+          "y": 0
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/run7.png",
+          "depth": 0,
+          "x": -23,
+          "y": 0
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/run8.png",
+          "depth": 0,
+          "x": -23,
+          "y": 0
+        }
+      ],
+      "name": "run"
+    },
+    {
+      "frames": [
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/jump1.png",
+          "depth": 0,
+          "x": -23,
+          "y": 0
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/jump2.png",
+          "depth": 0,
+          "x": -23,
+          "y": 0
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/jump3.png",
+          "depth": 0,
+          "x": -23,
+          "y": 0
+        }
+      ],
+      "name": "jump"
+    },
+    {
+      "frames": [
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/slash1.png",
+          "depth": 0,
+          "x": -23,
+          "y": 0
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/slash2.png",
+          "depth": 0,
+          "x": -23,
+          "y": 0
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/slash3.png",
+          "depth": 0,
+          "x": -23,
+          "y": 0
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/slash4.png",
+          "depth": 0,
+          "x": -23,
+          "y": 0
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/slash5.png",
+          "depth": 0,
+          "x": -23,
+          "y": 0
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/slash6.png",
+          "depth": 0,
+          "x": -23,
+          "y": 0
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/slash7.png",
+          "depth": 0,
+          "x": -23,
+          "y": 0
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/slash8.png",
+          "depth": 0,
+          "x": -23,
+          "y": 0
+        }
+      ],
+      "name": "slash"
+    },
+    {
+      "frames": [
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/slash_jump1.png",
+          "depth": 0,
+          "x": -23,
+          "y": 0
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/slash_jump2.png",
+          "depth": 0,
+          "x": -23,
+          "y": 0
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/slash_jump3.png",
+          "depth": 0,
+          "x": -23,
+          "y": 0
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/slash_jump4.png",
+          "depth": 0,
+          "x": -23,
+          "y": 0
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/slash_jump5.png",
+          "depth": 0,
+          "x": -23,
+          "y": 0
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/slash_jump6.png",
+          "depth": 0,
+          "x": -23,
+          "y": 0
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/slash_jump7.png",
+          "depth": 0,
+          "x": -23,
+          "y": 0
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/slash_jump8.png",
+          "depth": 0,
+          "x": -23,
+          "y": 0
+        }
+      ],
+      "name": "slash_jump"
+    },
+    {
+      "frames": [{
+        "image": "/home/brian/Held/app/src/main/assets/img/human/block.png",
+        "depth": 0,
+        "x": -23,
+        "y": 0
+      }],
+      "name": "block"
+    },
+    {
+      "frames": [{
+        "image": "/home/brian/Held/app/src/main/assets/img/human/block_jump.png",
+        "depth": 0,
+        "x": -23,
+        "y": 0
+      }],
+      "name": "block_jump"
+    },
+    {
+      "frames": [
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/bow1.png",
+          "depth": 0,
+          "x": -23,
+          "y": 0
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/bow2.png",
+          "depth": 0,
+          "x": -23,
+          "y": 0
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/bow3.png",
+          "depth": 0,
+          "x": -23,
+          "y": 0
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/bow4.png",
+          "depth": 0,
+          "x": -23,
+          "y": 0
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/bow5.png",
+          "depth": 0,
+          "x": -23,
+          "y": 0
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/bow6.png",
+          "depth": 0,
+          "x": -23,
+          "y": 0
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/bow7.png",
+          "depth": 0,
+          "x": -23,
+          "y": 0
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/bow8.png",
+          "depth": 0,
+          "x": -23,
+          "y": 0
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/bow9.png",
+          "depth": 0,
+          "x": -23,
+          "y": 0
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/bow10.png",
+          "depth": 0,
+          "x": -23,
+          "y": 0
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/bow11.png",
+          "depth": 0,
+          "x": -23,
+          "y": 0
+        }
+      ],
+      "name": "bow"
+    },
+    {
+      "frames": [
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/bow_jump1.png",
+          "depth": 0,
+          "x": -23,
+          "y": 0
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/bow_jump2.png",
+          "depth": 0,
+          "x": -23,
+          "y": 0
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/bow_jump3.png",
+          "depth": 0,
+          "x": -23,
+          "y": 0
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/bow_jump4.png",
+          "depth": 0,
+          "x": -23,
+          "y": 0
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/bow_jump5.png",
+          "depth": 0,
+          "x": -23,
+          "y": 0
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/bow_jump6.png",
+          "depth": 0,
+          "x": -23,
+          "y": 0
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/bow_jump7.png",
+          "depth": 0,
+          "x": -23,
+          "y": 0
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/bow_jump8.png",
+          "depth": 0,
+          "x": -23,
+          "y": 0
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/bow_jump9.png",
+          "depth": 0,
+          "x": -23,
+          "y": 0
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/bow_jump10.png",
+          "depth": 0,
+          "x": -23,
+          "y": 0
+        },
+        {
+          "image": "/home/brian/Held/app/src/main/assets/img/human/bow_jump11.png",
+          "depth": 0,
+          "x": -23,
+          "y": 0
+        }
+      ],
+      "name": "bow_jump"
+    }
+  ]
+}
